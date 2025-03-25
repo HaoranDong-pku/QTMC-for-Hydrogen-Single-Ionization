@@ -41,8 +41,8 @@ Key physics concepts modeled:
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/qtmc-hydrogen.git
-cd qtmc-hydrogen
+git clone https://github.com/HaoranDong-pku/QTMC-for-Hydrogen-Single-Ionization.git
+cd QTMC-for-Hydrogen-Single-Ionization
 ```
 
 2. Create a virtual environment and install dependencies:
